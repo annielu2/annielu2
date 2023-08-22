@@ -1,7 +1,7 @@
 # Sobre mim 
 
 ## Introdução
-Olá, meu nome é Ana Luiza e desde criança me interesso pela área de tecnologia. Estou cursando Ciência da Computação e em meio à minha tragetória, me apaixonei pela área de dados e Inteligência Artificial. Também possuo experiências com desenvolvimento em front-end e design de interface. 
+Olá, meu nome é Ana Luiza e desde criança me interesso pela área de tecnologia. Estou cursando Ciência da Computação e em meio à minha tragetória, me apaixonei pela área de dados e Inteligência Artificial. Também possuo experiências com desenvolvimento front-end e design de interfaces. 
 
 ## Minhas redes sociais
 
